@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Mahadhitia</h1>
 <h3 align="center">You can call me Mufalta, I'm a data analyst enthusiast</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn-icons-png.flaticon.com/512/8637/8637114.png">
+<img align="right" alt="Coding" width="300" src="https://cdn-icons-png.flaticon.com/512/8637/8637114.png">
 
 - 🌱 I’m currently learning **Data Analyst Tools**
 
