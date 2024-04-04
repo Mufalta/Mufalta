@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Naufal Mahadhitia</h1>
 <h3 align="center">You can call me Mufalta, I'm a data analyst enthusiast</h3>
-https://cdn-icons-png.flaticon.com/512/8637/8637114.png
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufalta&label=Profile%20views&color=0e75b6&style=flat" alt="mufalta" /> </p>
 
