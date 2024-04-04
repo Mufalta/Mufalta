@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **naufalmm2003@gmail.com**
 
-- ⚡ Fun fact **I like playing football**
+- ⚡ Fun fact **I'm a big fan of football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
