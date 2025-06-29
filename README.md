@@ -3,11 +3,9 @@
 <h3 align="center">You can call me Mufalta, I'm a data enthusiast</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-icons-png.flaticon.com/512/8637/8637114.png">
 
-- 🛠️ I’m currently learning **Data Analyst Tools**
+- 🛠️ I’m currently learning **Every Role in the Data World**
 
-- ✉️ How to reach me **naufalmm2003@gmail.com**
-
-- ⚽ Fun fact **I'm a big fan of playing football**
+- ✉️ How to reach me **muhammadnaufalmahadhitia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
